@@ -58,6 +58,12 @@ public class EmployeePayrollService {
             new EmployeePayrollFileIOService().printDataFromFile();
         }
     }
+    public void readDataFromFile(IOService ioService){
+        if(ioService.equals(IOService.CONSOLE_IO)){
+            new EmployeePayrollFileIOService().readDataFromFile();
+        }
+    }
+
     public static void main(String[] args) {
         ArrayList<EmployeePayrollData> employeePayrollDataList = new ArrayList<EmployeePayrollData>();
         EmployeePayrollService employeePayrollService = new EmployeePayrollService(employeePayrollDataList);
