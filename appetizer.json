@@ -5,10 +5,50 @@
       "name": "Test Appetizer",
       "description": "This is the description for my appetizer. It's yummy.",
       "price": 9.99,
-      "imageURL": "",
+      "imageURL": "https://www.sample-videos.com/img/Sample-jpg-image-500kb.jpg",
       "calories": 99,
       "protein": 99,
       "carbs": 99
+    },
+    {
+      "id": 2,
+      "name": "Spicy Chicken Wings",
+      "description": "Crispy wings tossed in a spicy buffalo sauce.",
+      "price": 12.99,
+      "imageURL": "https://www.sample-videos.com/img/Sample-jpg-image-1mb.jpg",
+      "calories": 320,
+      "protein": 25,
+      "carbs": 18
+    },
+    {
+      "id": 3,
+      "name": "Garlic Bread",
+      "description": "Toasted bread with garlic butter and herbs.",
+      "price": 5.99,
+      "imageURL": "https://www.learningcontainer.com/wp-content/uploads/2020/07/Sample-JPEG-Image-file.jpg",
+      "calories": 180,
+      "protein": 6,
+      "carbs": 22
+    },
+    {
+      "id": 4,
+      "name": "Cheese Nachos",
+      "description": "Corn chips topped with cheese, jalapenos, and salsa.",
+      "price": 8.50,
+      "imageURL": "https://file-examples.com/storage/fe739f43f83e7b3a71d7d6a/2017/10/file_example_JPG_100kB.jpg",
+      "calories": 275,
+      "protein": 12,
+      "carbs": 34
+    },
+    {
+      "id": 5,
+      "name": "Mini Veggie Burger",
+      "description": "Slider-sized vegetarian burger with lettuce and tomato.",
+      "price": 10.49,
+      "imageURL": "https://file-examples.com/storage/fe739f43f83e7b3a71d7d6a/2017/10/file_example_JPG_2500kB.jpg",
+      "calories": 210,
+      "protein": 14,
+      "carbs": 27
     }
   ]
 }
