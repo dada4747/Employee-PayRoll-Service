@@ -5,7 +5,7 @@
       "name": "Pasta Alfredo",
       "description": "Creamy white sauce pasta with herbs and cheese.",
       "price": 13.99,
-      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Pasta_Alfredo.jpg",
+      "imageURL": "PastaAlfredo.jpg",
       "calories": 390,
       "protein": 12,
       "carbs": 48
@@ -15,7 +15,7 @@
       "name": "Spicy Chicken Wings",
       "description": "Crispy wings tossed in a spicy buffalo sauce.",
       "price": 12.99,
-      "imageURL": "https://www.sample-videos.com/img/Sample-jpg-image-1mb.jpg",
+      "imageURL": "SpicyChickenWings.jpg",
       "calories": 320,
       "protein": 25,
       "carbs": 18
@@ -25,7 +25,7 @@
       "name": "Garlic Bread",
       "description": "Toasted bread with garlic butter and herbs.",
       "price": 5.99,
-      "imageURL": "https://www.learningcontainer.com/wp-content/uploads/2020/07/Sample-JPEG-Image-file.jpg",
+      "imageURL": "GarlicBread.jpg",
       "calories": 180,
       "protein": 6,
       "carbs": 22
@@ -35,7 +35,7 @@
       "name": "Cheese Nachos",
       "description": "Corn chips topped with cheese, jalapenos, and salsa.",
       "price": 8.50,
-      "imageURL": "https://github.com/dada4747/Employee-PayRoll-Service/blob/master/CheeseNachos.jpg",
+      "imageURL": "CheeseNachos.jpg",
       "calories": 275,
       "protein": 12,
       "carbs": 34
@@ -45,7 +45,7 @@
       "name": "Mini Veggie Burger",
       "description": "Slider-sized vegetarian burger with lettuce and tomato.",
       "price": 10.49,
-      "imageURL": "https://file-examples.com/storage/fe739f43f83e7b3a71d7d6a/2017/10/file_example_JPG_2500kB.jpg",
+      "imageURL": "MiniVeggieBurger.jpg",
       "calories": 210,
       "protein": 14,
       "carbs": 27
@@ -55,7 +55,7 @@
       "name": "Crispy Fries",
       "description": "Golden fried potato strips served with ketchup.",
       "price": 4.99,
-      "imageURL": "https://file-examples.com/storage/fe739f43f83e7b3a71d7d6a/2017/10/file_example_JPG_500kB.jpg",
+      "imageURL": "CrispyFries.jpg",
       "calories": 300,
       "protein": 4,
       "carbs": 50
@@ -65,7 +65,7 @@
       "name": "Chocolate Brownie",
       "description": "Rich chocolate brownie with walnut pieces.",
       "price": 6.99,
-      "imageURL": "https://www.learningcontainer.com/wp-content/uploads/2020/07/Large-Sample-image-download-for-testing.jpg",
+      "imageURL": "ChocolateBrownie.jpg",
       "calories": 400,
       "protein": 5,
       "carbs": 45
@@ -75,7 +75,7 @@
       "name": "Fruit Salad",
       "description": "A healthy mix of seasonal fruits.",
       "price": 7.99,
-      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/1/15/Recipe_pictures.jpg",
+      "imageURL": "FruitSalad.jpg",
       "calories": 120,
       "protein": 2,
       "carbs": 25
@@ -85,7 +85,7 @@
       "name": "Tandoori Paneer",
       "description": "Grilled paneer cubes marinated in spices.",
       "price": 11.50,
-      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Panner_tikka.jpg",
+      "imageURL": "TandooriPaneer.jpg",
       "calories": 250,
       "protein": 20,
       "carbs": 10
